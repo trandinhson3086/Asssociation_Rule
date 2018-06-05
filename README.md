@@ -5,8 +5,9 @@ Data Mining class
 Professor: Yonggwan Won                                 
 Student: Tran Dinh Son, ID: 177290, mail: trandinhson3086@gmail.com 
 
+===============================================================================
 ('Dataset: ', data/example/out1.csv', ' MinSup: ', 0.03, ' MinConf: ', 0.7)
-==================================================================
+===============================================================================
 1 : Blackberry Tart (15), Apple Danish (36) support= 0.139          
 
 2 : Gongolais Cookie (22), Napoleon Cake (9) support= 0.181  
